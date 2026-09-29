@@ -54,15 +54,11 @@ I'm currently gaining hands-on experience through my work at Horrazon AI while c
 * Data structures & algorithms
 * Object-oriented programming
 * Design patterns
-* Distributed systems fundamentals
 
 ### Cloud & Infrastructure
 
-* Microsoft Azure
 * Docker
 * CI/CD
-* Cloud deployment
-* Distributed application fundamentals
 
 ---
 
