@@ -35,7 +35,7 @@ I'm currently gaining hands-on experience through my work at Horrazon AI while c
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git,github,azure"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git,github,react"/>
 
 </div>
 
@@ -99,7 +99,7 @@ I'm currently gaining hands-on experience through my work at Horrazon AI while c
 ## ☁️ Cloud & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
 </p>
 
 ---
